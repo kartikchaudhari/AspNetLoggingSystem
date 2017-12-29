@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\LoggingSystem\LoggingSystem\bin\LoggingSystem.dll
+c:\users\admin\documents\visual studio 2012\Projects\LoggingSystem\LoggingSystem\bin\LoggingSystem.pdb
+c:\users\admin\documents\visual studio 2012\Projects\LoggingSystem\LoggingSystem\obj\Debug\LoggingSystem.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\LoggingSystem\LoggingSystem\obj\Debug\LoggingSystem.dll
+c:\users\admin\documents\visual studio 2012\Projects\LoggingSystem\LoggingSystem\obj\Debug\LoggingSystem.pdb
